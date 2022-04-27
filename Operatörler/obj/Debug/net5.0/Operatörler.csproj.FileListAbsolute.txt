@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\Operatörler.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\Operatörler.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\Operatörler.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\Operatörler.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\Operatörler.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\ref\Operatörler.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\bin\Debug\net5.0\Operatörler.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\ref\Operatörler.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\Operatörler\obj\Debug\net5.0\Operatörler.genruntimeconfig.cache
