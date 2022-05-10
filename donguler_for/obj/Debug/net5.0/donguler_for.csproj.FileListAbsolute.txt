@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\donguler_for.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\donguler_for.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\donguler_for.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\donguler_for.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\donguler_for.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\ref\donguler_for.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\bin\Debug\net5.0\donguler_for.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\ref\donguler_for.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\donguler_for\obj\Debug\net5.0\donguler_for.genruntimeconfig.cache
