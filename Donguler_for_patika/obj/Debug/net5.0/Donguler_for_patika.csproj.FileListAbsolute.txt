@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\Donguler_for_patika.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\Donguler_for_patika.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\Donguler_for_patika.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\Donguler_for_patika.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\Donguler_for_patika.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\ref\Donguler_for_patika.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\bin\Debug\net5.0\Donguler_for_patika.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\ref\Donguler_for_patika.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\Donguler_for_patika\obj\Debug\net5.0\Donguler_for_patika.genruntimeconfig.cache
