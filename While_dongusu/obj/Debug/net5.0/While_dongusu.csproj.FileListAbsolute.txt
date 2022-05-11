@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\While_dongusu.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\While_dongusu.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\While_dongusu.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\While_dongusu.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\While_dongusu.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\ref\While_dongusu.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\bin\Debug\net5.0\While_dongusu.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\ref\While_dongusu.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\While_dongusu\obj\Debug\net5.0\While_dongusu.genruntimeconfig.cache
