@@ -1,0 +1,16 @@
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\Array_Class.exe
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\Array_Class.deps.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\Array_Class.runtimeconfig.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\Array_Class.runtimeconfig.dev.json
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\Array_Class.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\ref\Array_Class.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\bin\Debug\net5.0\Array_Class.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.csproj.AssemblyReference.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.AssemblyInfoInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.AssemblyInfo.cs
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.csproj.CoreCompileInputs.cache
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\ref\Array_Class.dll
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.pdb
+C:\Users\hilal.oguzhan\Desktop\Pratik\Array_Class\obj\Debug\net5.0\Array_Class.genruntimeconfig.cache
